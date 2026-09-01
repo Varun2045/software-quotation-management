@@ -6,6 +6,7 @@ A modern, full-featured web application developed for **Triple S Software Soluti
 
 ## 🚀 Live Demo & Repository
 
+- **Live Vercel URL**: [https://software-quotation-management-mauve.vercel.app](https://software-quotation-management-mauve.vercel.app)
 - **GitHub Repository**: [https://github.com/Varun2045/software-quotation-management](https://github.com/Varun2045/software-quotation-management)
 - **Default Test Credentials**:
   - **Email**: `demo@triples.software`
