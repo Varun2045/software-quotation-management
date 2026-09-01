@@ -6,8 +6,7 @@ A modern, full-featured web application developed for **Triple S Software Soluti
 
 ## 🚀 Live Demo & Repository
 
-- **GitHub Repository**: [Your GitHub Repo URL]
-- **Live Vercel Deployment**: [Your Vercel Deployment URL]
+- **GitHub Repository**: [https://github.com/Varun2045/software-quotation-management](https://github.com/Varun2045/software-quotation-management)
 - **Default Test Credentials**:
   - **Email**: `demo@triples.software`
   - **Password**: `DemoPassword123!`
